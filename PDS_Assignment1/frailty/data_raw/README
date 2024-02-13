@@ -1,0 +1,11 @@
+Frailty Dataset
+
+This dataset contains 5 columns:
+
+Height column represents the height in inches.
+Weight column represents the weight in pounds.
+Age column represents the age in years.
+Grip column is  represents strength in kilograms.
+Frailty is qualitative attribute that indicates the presence(Y) or absence(N) of the symptoms.
+N represents Absence of Frailty symptoms
+Y represents Presence of Frailty symptoms
